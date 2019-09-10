@@ -54,7 +54,7 @@ public class HomePageTest extends TestBase {
 		contactsPage = homePage.clickOnContactsLink();
 	}
 	
-	
+	//Home page comment by vimal from github
 	
 	@AfterMethod
 	public void tearDown(){
