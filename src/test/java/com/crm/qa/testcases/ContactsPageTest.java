@@ -3,7 +3,7 @@
  * 
  */
 
-//from github written
+
 package com.crm.qa.testcases;
 
 import java.io.IOException;
@@ -87,7 +87,7 @@ public class ContactsPageTest extends TestBase{
 		
 	}
 	
-	//from the githu changes
+
 
 	@AfterMethod
 	public void tearDown(){
