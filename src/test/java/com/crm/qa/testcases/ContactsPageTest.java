@@ -86,7 +86,7 @@ public class ContactsPageTest extends TestBase{
 		
 	}
 	
-	
+	//from the githu changes
 
 	@AfterMethod
 	public void tearDown(){
